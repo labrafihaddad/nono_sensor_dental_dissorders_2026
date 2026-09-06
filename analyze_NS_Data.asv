@@ -4,9 +4,8 @@
 
 %% Set up the Import Options and import the data
 
-xlsfileName = "/Users/rafihaddad/Library/CloudStorage/OneDrive-BarIlanUniversity/Code/StudentProjects/Maisa/teethEnoseData.xlsx"
 
-xlsfileName = "/Users/rafihaddad/Library/CloudStorage/OneDrive-BarIlanUniversity/Code/StudentProjects/Maisa/14AprilcheckedteethSniffphoneData_14_4_26.xlsx"
+xlsfileName = "/14AprilcheckedteethSniffphoneData_14_4_26.xlsx"
 
 
 sensorIds = 1:8;
